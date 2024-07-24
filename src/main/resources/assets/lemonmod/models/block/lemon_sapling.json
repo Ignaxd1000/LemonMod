@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cross",
   "textures": {
-    "all": "lemonmod:block/lemon_sapling"
+    "cross": "lemonmod:block/lemon_sapling"
   }
 }

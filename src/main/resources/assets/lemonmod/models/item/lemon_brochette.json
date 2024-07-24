@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "primermod:item/lemon_brochette"
+    "layer0": "lemonmod:item/lemon_brochette"
   }
 }

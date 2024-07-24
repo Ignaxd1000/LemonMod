@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_collumn",
   "textures": {
-    "end": "lemonmod:block/stripped_lemon_log_end",
-    "side": "lemonmod:block/stripped_lemon_log_side"
+    "end": "lemonmod:block/stripped_lemon_log_top",
+    "side": "lemonmod:block/stripped_lemon_log"
   }
 }
