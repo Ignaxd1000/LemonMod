@@ -1,5 +1,5 @@
 {
-  "parent": "block/cube_column",
+  "parent": "minecraft:block/cube_column",
   "textures": {
     "end": "lemonmod:block/lemon_log_top",
     "side": "lemonmod:block/lemon_log"
