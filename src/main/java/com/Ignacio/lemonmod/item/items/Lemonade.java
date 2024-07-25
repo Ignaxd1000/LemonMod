@@ -22,6 +22,7 @@ public class Lemonade extends Item {
 
         if (!worldIn.isRemote) {
             consumer.addPotionEffect(new EffectInstance(Effects.SATURATION, 200));
+            return new ItemStack(Items.GLASS_BOTTLE);
         }
         if (stack.isEmpty()) {
             return new ItemStack(Items.GLASS_BOTTLE);
