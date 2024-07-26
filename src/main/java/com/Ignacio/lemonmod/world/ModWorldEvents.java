@@ -2,7 +2,6 @@ package com.Ignacio.lemonmod.world;
 
 import com.Ignacio.lemonmod.LemonMod;
 import com.Ignacio.lemonmod.world.generation.TreeGenerator;
-import net.minecraft.world.biome.Biome;
 import net.minecraftforge.event.world.BiomeLoadingEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
