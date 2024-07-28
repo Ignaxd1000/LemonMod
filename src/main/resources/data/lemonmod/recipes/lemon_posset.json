@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lemonmod:lemon"
+    },
+    {
+      "item": "minecraft:milk"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "lemonmod:lemon_posset",
+    "count": 1
+  }
+}
