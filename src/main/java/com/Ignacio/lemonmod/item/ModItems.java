@@ -23,7 +23,7 @@ public class ModItems {
     public static final RegistryObject<Item> LEMON_POSSET = ITEMS.register("lemon_posset",
             () -> new Item(new Item.Properties().group(ModItemGroup.ModGroup).food(ModFoods.LEMON_POSSET)));
 
-    public static final RegistryObject<Item> LEMON_PIE = ITEMS.register("lemon_posset",
+    public static final RegistryObject<Item> LEMON_PIE = ITEMS.register("lemon_pie",
             () -> new Item(new Item.Properties().group(ModItemGroup.ModGroup).food(ModFoods.LEMON_PIE)));
 
     public static final RegistryObject<Item> LEMONADE = ITEMS.register("lemonade",
